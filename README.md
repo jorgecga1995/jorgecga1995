@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+My name is Jorge C. Garcia Alvarez. I am a computational chemist. My projects generally aim to reproduce experimental observables using comp. methods such as electronic structure (DFT mainly) and molecular mechanics.
+
+## Projects
+ - Molecular scan automation
+ - MD analysis
+ - Oscillator strengths comp. vs. experiment
+
+
+
+
+
+
+
+
 <!--
 **jorgecga1995/jorgecga1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
