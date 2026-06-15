@@ -2,6 +2,8 @@
 
 My name is Jorge C. Garcia Alvarez. I am a computational chemist. My projects generally aim to reproduce experimental observables using comp. methods such as electronic structure (DFT mainly) and molecular mechanics.
 
+This profile is still a work in progress ...
+
 ## Projects
  - Molecular scan automation
  - MD analysis
