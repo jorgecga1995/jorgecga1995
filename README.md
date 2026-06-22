@@ -5,8 +5,8 @@ My name is Jorge C. Garcia Alvarez. I am a computational chemist. My projects ge
 This profile is still a work in progress ...
 
 ## Projects
- - Molecular scan automation
- - MD analysis
+ - [Semi-automated molecular parametrization](https://github.com/jorgecga1995/SemiAutomated_Molecular_Parametrization.git)
+ - [Amber MD analysis](https://github.com/jorgecga1995/AMBER_MD_analysis)
  - Oscillator strengths comp. vs. experiment
 
 
